@@ -40,5 +40,5 @@ The dataset comprises over **one million rows** with **32 columns** containing a
 - **Database:** Microsoft SQL Server  
 - **Services:** Azure SQL Database  
 
-![Project Visualization]("code/Dashboard - Page 1.png")
-![Project Visualization](/code/image.png)
+![Project Visualization]("code/Page_1.png")
+![Project Visualization](/code/Page_1.png)
